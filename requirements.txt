@@ -1,0 +1,3 @@
+requests==2.31.0
+faker==19.6.2
+analytics-python>=1.4.0
