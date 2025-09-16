@@ -12,8 +12,8 @@ To send records to Segment,
 1. edit ```config.py``` and change ```NUM_ITERATIONS``` to the desired number of Identify() calls.
 2. call ``` python main.py ```
 
-## Write random user records to JSONL file
-This is handy to upload to a Google BigQuery table.
+## Write random user records to local text file
+This outputs a JSONL-formatted file, handy for uploading to a Google BigQuery table.
 
 *Generate default number of records (from config.py):*
 
